@@ -1,1 +1,1 @@
-# Acme-Rockets-Landing-Page
+Acme Rockets landing page. First project created with Tailwind CSS.
